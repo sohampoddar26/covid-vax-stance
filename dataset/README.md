@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # COVID-19 vaccine Datasets
 
 ## Introduction
 This directory contains datasets of tweets labelled into three classes according to their stance towards COVID-19 vaccines:- 
-- AntiVax: the tweet is against the use of vaccines
-- ProVax: the tweet is supporting the use of vaccines
-- Neutral: Neither of the above
+- **AntiVax:** the tweet is against the use of vaccines
+- **ProVax:** the tweet is supporting the use of vaccines
+- **Neutral:** Neither of the above
 
 
 ## Dataset Description
@@ -24,8 +23,3 @@ For both the datasets, the usernames from the tweet texts have been removed to p
 
 ## Citation
 If you use either of these datasets, please cite the corresponding papers as given in the [main README](/README.md) in the root directory.
-=======
-# Datasets
-
-(To be updated)
->>>>>>> 1154b493ceaf247785f2a72e24b65a5d287d2502
