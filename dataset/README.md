@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COVID-19 vaccine Datasets
 
 ## Introduction
@@ -23,3 +24,8 @@ For both the datasets, the usernames from the tweet texts have been removed to p
 
 ## Citation
 If you use either of these datasets, please cite the corresponding papers as given in the [main README](/README.md) in the root directory.
+=======
+# Datasets
+
+(To be updated)
+>>>>>>> 1154b493ceaf247785f2a72e24b65a5d287d2502

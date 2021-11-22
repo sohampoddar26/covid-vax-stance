@@ -1,5 +1,6 @@
 # COVID-19 vaccine stance classifier
 
+<<<<<<< HEAD
 ## Introduction
 This directory contains the code to run our vaccine-stance classifier model on a set of tweet texts (or any text) to determine if they are ProVax or AntiVax (described in the [dataset directory README](/dataset/README.md)). 
 The classfier is based on covid-twitter-bert-v2 which is a finetuned version of the bert-large model. The model was then trained on 3 different datasets. For more details on the classifier model and its training please read our paper on [Arxiv](https://arxiv.org "Paper on Arxiv").
@@ -42,3 +43,6 @@ python classifier_predict.py ../dataset/our_data.csv  --text_col tweet  --out_di
 
 ## Citation
 If you use our classifier model, please cite the our paper as given in the [main README](/README.md) in the root directory.
+=======
+(To be updated)
+>>>>>>> 1154b493ceaf247785f2a72e24b65a5d287d2502
