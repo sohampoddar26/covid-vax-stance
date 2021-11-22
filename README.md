@@ -3,7 +3,7 @@
 ## Information
 This repository contains the data and classifier used in the paper titled "Winds of Change: Impact of COVID-19 on Vaccine-related Opinions of Twitter users" accepted to appear at the [International Conference on Web and Social Media (AAAI ICWSM) 2022](https://www.icwsm.org/2022/index.html/ "ICWSM Website").
 
-A preprint of the paper is available on [Arxiv](https://arxiv.org "Paper on Arxiv").
+A preprint of the paper is available on [Arxiv](https://arxiv.org "Paper on Arxiv"), and in this repository too.
 
 There are two directories as listed below. Details of each are given in the README files in the corresponding directories.
 - [/dataset](/dataset) -- consisting of a collection of tweets with crowdsourced labels of their stance towards COVID-19 vaccines.
