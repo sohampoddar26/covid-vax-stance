@@ -11,7 +11,7 @@ This directory contains datasets of tweets labelled into three classes according
 We have provided the tweet IDs, anonymized tweet texts and the corresponding labels in standard CSV files. These can be read using any standard CSV reading tool, e.g. in Python, either of the "csv" or "pandas" libraries can be used.
 
 [Our collected dataset](our_data.csv) consists of tweets on COVID-19 vaccines between March to December of 2020. Each tweet was labelled by 3 annotators on the crowdsourcing platform [Prolific](https://prolific.co "Prolific"). 
-For more details on the data collection and annotation process please read our paper on [Arxiv](https://arxiv.org "Paper on Arxiv") or from the root directory.
+For more details on the data collection and annotation process please read our paper on [Arxiv](https://arxiv.org/abs/2111.10667 "Paper on Arxiv") or from the root directory.
 
 `Cotfas et.al.` provided a set of tweets on COVID-19 vaccines from between November to December of 2020 in their paper titled "The Longest Month: Analyzing COVID-19 Vaccination Opinions Dynamics from Tweets in the Month following the First Vaccine Announcement". 
 They have provided the tweet IDs along with their corresponding labels in their [Github repository](https://github.com/liviucotfas/covid-19-vaccination-hesitancy "Cotfas Github repository").
