@@ -23,8 +23,7 @@ They have provided the tweet IDs along with their corresponding labels in their 
 We collected the tweet objects in April 2021, and provided the tweet texts in [cotfas_data.csv](cotfas_data.csv). Some tweets had been deleted by the time we tried to collect them, and thus could not be fetched.
 
 
-
-For all of these datasets, the usernames from the tweet texts have been removed to preserve their anonymity.
+*For all of these datasets, the usernames from the tweet texts have been removed to preserve their anonymity. This was done by replacing consecutive @user_names with `@user`*
 
 
 
