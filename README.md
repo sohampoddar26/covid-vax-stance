@@ -7,7 +7,7 @@ A preprint of the paper is available on [Arxiv](https://arxiv.org/abs/2111.10667
 
 There are two directories as listed below. Details of each are given in the README files in the corresponding directories.
 - [/dataset](/dataset) -- consisting of a collection of tweets with crowdsourced labels of their stance towards COVID-19 vaccines.
-- [/classifiers](/classifiers) -- consisting of codes to run our classifier to predict the vaccine-stances of a set of tweets (or any text)
+- [/classifier](/classifier) -- consisting of codes to run our classifier to predict the vaccine-stances of a set of tweets (or any text)
 
 For queries or issues feel free to contact me at: [Email ID](mailto:sohampoddar@kgpian.iitkgp.ac.in)
 
