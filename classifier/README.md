@@ -10,7 +10,7 @@ The saved classifier model is available at [this link](https://drive.google.com/
 
 Packages required
 - python==3.8
-- pytorch==1.6
+- pytorch==1.7
 - torchtext==0.8
 - transformers==4.1
 
