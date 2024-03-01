@@ -1,7 +1,7 @@
 # Winds of Change: Impact of COVID-19 on Vaccine-related Opinions of Twitter users
 
 ## Information
-This repository contains the data and classifier used in the paper titled "Winds of Change: Impact of COVID-19 on Vaccine-related Opinions of Twitter users" accepted to appear at the [International Conference on Web and Social Media (AAAI ICWSM) 2022](https://www.icwsm.org/2022/index.html/ "ICWSM Website").
+This repository contains the data and classifier used in the paper titled "Winds of Change: Impact of COVID-19 on Vaccine-related Opinions of Twitter users" accepted at the [International Conference on Web and Social Media (AAAI ICWSM) 2022](https://www.icwsm.org/2022/index.html/ "ICWSM Website").
 
 A preprint of the paper is available on [Arxiv](https://arxiv.org/abs/2111.10667 "Paper on Arxiv"), and in this repository too.
 
